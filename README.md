@@ -14,6 +14,6 @@
  
  
  
-  ![Snake animation](https://github.com/Lucas-Magalhaes-S/Lucas-Magalhaes-S/blob/output/github-contribution-grid-snake.svg)
+ 
 
 </div>
